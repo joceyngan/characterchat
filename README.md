@@ -17,10 +17,11 @@ Root
 ├── pipeline.py (main of the dialogue system)
 ├── train_emotion.py (for training emotion classifier)
 ├── train_intent.py (for training intention classifier)
+├── train_gpt2.py (for training response generator)
 ├── check_maxlength.py (for checking maxlength of final prompt)
 └── dataset.py (dataset consolidated for all trainings)
 ```
-
+For dataset links please refer to the Final Report submitted 
 
 1.	Install Anaconda in the machine and create environment  and make sure CUDA and GPU are properly install if y want to use GPU for finetuning or inference in pipeline.
 `conda create --name <env_name> python=3.9`
