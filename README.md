@@ -21,8 +21,9 @@ Root
 ├── check_maxlength.py (for checking maxlength of final prompt)
 └── dataset.py (dataset consolidated for all trainings)
 ```
-For dataset links please refer to the Final Report submitted 
-Models links: `https://portland-my.sharepoint.com/:f:/g/personal/szfung9-c_my_cityu_edu_hk/EnDxuqP_tgZCrsrnMURjnKcBNHE5L6F9ErzpWdO__FRz1w?e=e3hxyT`
+For dataset links please refer to the Final Report submitted
+
+Models link: `https://portland-my.sharepoint.com/:f:/g/personal/szfung9-c_my_cityu_edu_hk/EnDxuqP_tgZCrsrnMURjnKcBNHE5L6F9ErzpWdO__FRz1w?e=e3hxyT`
 
 1.	Install Anaconda in the machine and create environment, make sure CUDA and GPU are properly installed if you want to use GPU for finetuning or inference in pipeline.
 `conda create --name <env_name> python=3.9` 
