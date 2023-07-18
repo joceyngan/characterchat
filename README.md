@@ -22,13 +22,7 @@ Root
 └── dataset.py (dataset consolidated for all trainings)
 ```
 
-Dataset links:
-
-Custom Intentions Dataset: [link](https://portland-my.sharepoint.com/:x:/g/personal/szfung9-c_my_cityu_edu_hk/EYNmW7EoZ8NNoZpInZJ3B-4BDprhMK-SPxMotKFyTXTz-Q?e=m3HyJ7)
-
-Custom Emotions Dataset: [link](https://portland-my.sharepoint.com/:x:/g/personal/szfung9-c_my_cityu_edu_hk/ETT-GN7-cJlKoozwnnlaapEBb8aAincwkO7WTkxYtyRH-A?e=VGW87P)
-
-Persona dialogue Dataset: [link](https://portland-my.sharepoint.com/:u:/g/personal/szfung9-c_my_cityu_edu_hk/Ec3UE2NHP71GlLRBV3OTw0IBidpLaLtj6YTkB6GmiM6ufA?e=TpGVHF)
+Dataset links please refer to links in Final Report submitted.
 
 
 Models link: [link](https://portland-my.sharepoint.com/:f:/g/personal/szfung9-c_my_cityu_edu_hk/EnDxuqP_tgZCrsrnMURjnKcBNHE5L6F9ErzpWdO__FRz1w?e=e3hxyT)
