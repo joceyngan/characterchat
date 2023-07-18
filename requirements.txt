@@ -1,0 +1,13 @@
+torch
+transformers
+accelerate
+tqdm
+numpy
+panda
+scikit-learn
+nltk
+seaborn
+plotly
+nbformat==5.7.3
+spacy==3.5.3
+wandb
